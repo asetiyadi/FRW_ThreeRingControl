@@ -18,17 +18,16 @@ Pod::Spec.new do |s|
   s.name         = "FRW_ThreeRingControl"
   s.version      = "0.0.1"
   s.summary      = "A three-ring control like Apple Watch Activity status bars"
-  s.description  = "Customizable widget that is used for iPhone app."
-  s.homepage     = "http://www.google.com"
+  
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "Test building pod framework"
+  s.description  = "Test building pod framework - Customizable widget that is used for iPhone app."
 
-  s.homepage     = "http://EXAMPLE/FRW_ThreeRingControl"
+  s.homepage     = "http://devhubs.com"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://github.com/FRW_ThreeRingControl.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/asetiyadi/FRW_ThreeRingControl.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
